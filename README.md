@@ -1,1 +1,1 @@
-# College_Management_System
+College Management System project for adding new student detail ,new faculty detail, viewing details about student and faculty, leave application, fees structure , result,etc.# College_Management_System
